@@ -1,0 +1,22 @@
+{
+  "name": "react-native-adjoe-sdk-ios",
+  "version": "1.7.0",
+  "description": "React Native adjoe SDK",
+  "main": "src/index.js",
+  "types": "src-ts/index.d.ts",
+  "keywords": [
+    "react-native"
+  ],
+  "author": "adjoe",
+  "license": "Commercial",
+  "homepage": "https://adjoe.io/solutions/monetize-your-app/playtime/",
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  },
+  "devDependencies": {
+    "clean-publish": "^1.1.8",
+    "publish-variants": "^1.0.4",
+    "typescript": "^5.2.2"
+  }
+}
