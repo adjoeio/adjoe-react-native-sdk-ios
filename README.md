@@ -1,2 +1,1 @@
-# adjoe-react-native-sdk-ios
-A React Native wrapper for adjoe's monetization solution.
+Refer to adjoe documentation for integration steps: https://docs.adjoe.io/rewarded-solutions
