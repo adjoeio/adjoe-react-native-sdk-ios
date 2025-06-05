@@ -14,6 +14,11 @@ export interface ShowCatalogParams {
     uaSubPublisherEncrypted?: string | null;
     uaSubPublisherCleartext?: string | null;
     placement?: string | null;
+    subId1?: string | null;
+    subId2?: string | null;
+    subId3?: string | null;
+    subId4?: string | null;
+    subId5?: string | null;
 }
 
 declare namespace _default {

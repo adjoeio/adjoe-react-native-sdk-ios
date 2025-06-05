@@ -1,6 +1,6 @@
 {
   "name": "react-native-adjoe-sdk-ios",
-  "version": "1.7.0",
+  "version": "1.8.0",
   "description": "React Native adjoe SDK",
   "main": "src/index.js",
   "types": "src-ts/index.d.ts",
